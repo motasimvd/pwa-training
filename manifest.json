@@ -1,0 +1,22 @@
+{
+  "short_name": "Todo App",
+  "name": "Todo Application",
+  "icons": [
+    {
+      "src": "/images/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#352f5b",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#352f5b",
+  "description": "Create lists and organize your work"
+}
